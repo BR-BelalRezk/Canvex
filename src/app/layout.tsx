@@ -12,6 +12,9 @@ const WorkSans = Work_Sans({
 export const metadata: Metadata = {
   title: "Canvex",
   description: "A canvas real-time collaboration app like Figma",
+  icons: {
+    icon: "/logo.png",
+  },
 };
 
 export default function RootLayout({
