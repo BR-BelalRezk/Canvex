@@ -31,7 +31,7 @@ export default function RightSidebar({
     });
   };
   return (
-    <aside className="flex flex-col border-t border-primary-grey-200 bg-primary-black text-primary-grey-300 min-w-56 sticky right-0 h-screen select-none  max-sm:hidden overflow-y-scroll">
+    <aside className="flex flex-col border-t border-primary-grey-200 bg-primary-black text-primary-grey-300 min-w-56 sticky right-0 h-screen select-none  max-sm:hidden">
       <h3 className="px-5 pt-5 text-xs uppercase">Design</h3>
       <span className="text-xs text-primary-grey-300 mt-3 px-5 border-b border-primary-grey-200 pb-5">
         Make changes to canvas as you like
